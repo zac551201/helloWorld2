@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "hello world2";
+        echo "branch1";
         // put your code here
         ?>
     </body>
