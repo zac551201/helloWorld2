@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         echo "hello world2";
         echo "branch1";
+        echo "hi i'm editing this file";
         // put your code here
         ?>
     </body>
